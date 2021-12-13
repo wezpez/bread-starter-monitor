@@ -50,6 +50,8 @@ void setup() {
   pinMode(buzzerPin, OUTPUT); // Set buzzer - pin 9 as an output
 
   pixels.begin();
+
+  
   
   Serial.println("Application Note AN161_ardunio_T6713_I2C");
 }
