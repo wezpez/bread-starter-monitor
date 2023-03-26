@@ -12,4 +12,4 @@ A full detailed report on this project can be found in the report directory.
 
 ## Circuit Diagram
 
-<img src="images/circuitDiagram.png" width="500" height="500">
+<img src="images/circuitDiagram.png" width="650" height="500">
